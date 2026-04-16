@@ -25,7 +25,7 @@ fileInput.addEventListener("change", async () => {
 
     try {
         const response = await fetch(
-            "https://yashasvi0409-automated-invoice-generator.hf.space/upload",
+            "https://sushik0905-automatedinvoicegenerator.hf.space/upload",
             {
                 method: "POST",
                 body: formData
